@@ -2,7 +2,7 @@
 
 PHP useful resources - Designed to be Objective...from Blogs, Framework agnostic libraries/tools etc..
 
-There are a lot of information out there. But what are the best ones? Many are now out-of-date too. The aim of this repository is to keep an up-to-date list of important & useful resources maintained by you!
+There are a lot of information out there. But what are the best ones? Many are now *out-of-date* too. The aim & design of this repository is to keep an *up-to-date* list of important, useful & must know for every PHP developer, maintained by **YOU**!
 
 ---
 
