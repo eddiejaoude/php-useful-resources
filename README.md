@@ -56,6 +56,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 * [CI written & designed for PHP](https://www.phptesting.org)
 * [TravisCI](http://docs.travis-ci.com/user/languages/php/)
+ 
+## Static Code Analysis
+
+* [Scrutinizer](https://scrutinizer-ci.com)
 
 ## PHP hosting
 
