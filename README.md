@@ -9,6 +9,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 ## Core
 
 * [PHP Language Specification](https://github.com/php/php-langspec)
+* [PSR / FIG Standards](https://github.com/php-fig/fig-standards)
 
 ## Design Patterns
 
