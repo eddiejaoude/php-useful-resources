@@ -9,6 +9,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 ## Design Patterns
 
 * [Source Making with PHP examples](http://sourcemaking.com/design_patterns)
+* [PHP example Github Repo](https://github.com/domnikl/DesignPatternsPHP)
 
 ## Security
 
