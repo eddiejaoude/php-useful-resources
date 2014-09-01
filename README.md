@@ -51,6 +51,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 * [Composer](https://getcomposer.org)
 * [Packagist](https://packagist.org)
+ 
+### Data generator
+
+* [Faker](https://github.com/fzaninotto/Faker)
 
 ## Libraries
 
