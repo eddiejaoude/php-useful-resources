@@ -39,6 +39,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ### Tools
 
+* 
+
+## Other
+
 ### Package manager
 
 * [Composer](https://getcomposer.org)
