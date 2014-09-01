@@ -80,6 +80,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 * 
 
+## PHP IDE
+
+* [PHPStorm](http://www.jetbrains.com/phpstorm/)
+
 ---
 
 ## Contributions
