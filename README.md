@@ -39,7 +39,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ### Tools
 
-* 
+### Package manager
+
+* [Composer](https://getcomposer.org)
+* [Packagist](https://packagist.org)
 
 ## Libraries
 
