@@ -35,6 +35,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 #### Tools
 
 * [Xhprof with UI](https://github.com/phacility/xhprof)
+* [Xdebug](http://xdebug.org)
 
 ## Testing
 
