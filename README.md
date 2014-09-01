@@ -24,8 +24,8 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## PHP CI
 
-* (CI written & design for PHP)[https://www.phptesting.org]
-* (TravisCI)[http://docs.travis-ci.com/user/languages/php/]
+* [CI written & design for PHP](https://www.phptesting.org)
+* [TravisCI](http://docs.travis-ci.com/user/languages/php/)
 
 ## PHP hosting
 
