@@ -79,4 +79,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## Contributions
 
-Contributions are welcome. Please **Fork** & create a **Pull Request**
+Contributions are welcome. Please **Fork**, **Make Changes** & create a **Pull Request**
+
+Examples below from **Github** Help section:
+
+* [Fork a Repo](https://help.github.com/articles/fork-a-repo)
+* [Sync a Fork](https://help.github.com/articles/syncing-a-fork)
+* [Create a Pull Request](https://help.github.com/articles/creating-a-pull-request)
