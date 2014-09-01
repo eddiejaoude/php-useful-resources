@@ -8,8 +8,8 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## Design Patterns
 
-* [Source Making with PHP examples](http://sourcemaking.com/design_patterns)
-* [PHP example Github Repo](https://github.com/domnikl/DesignPatternsPHP)
+* [Source Making](http://sourcemaking.com/design_patterns) with PHP examples
+* [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) Github Repo with examples
 
 ## Security
 
@@ -19,7 +19,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ### Tools
 
-* 
+* [Zap Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
 ## Performance
 
