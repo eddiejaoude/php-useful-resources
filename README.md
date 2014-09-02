@@ -48,7 +48,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [PHPSpec - BDD testing framework](http://www.phpspec.net)
 * [PHPUnit - xUnit architecture for unit testing frameworks](https://phpunit.de)
 * [Full-stack testing PHP framework](https://github.com/Codeception/Codeception)
-* [Mokery - simple yet flexible PHP mock object framework](https://github.com/padraic/mockery)
+* [Mockery - simple yet flexible PHP mock object framework](https://github.com/padraic/mockery)
 
 ## Other
 
