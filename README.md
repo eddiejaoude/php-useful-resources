@@ -93,7 +93,6 @@ There are a lot of information out there. But what are the best ones? Many are n
 #### Templating engines
 
 * [Twig](http://twig.sensiolabs.org/)
-* [Smarty](http://www.smarty.net/)
 
 ## PHP CI
 
