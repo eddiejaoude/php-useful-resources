@@ -9,7 +9,18 @@ There are a lot of information out there. But what are the best ones? Many are n
 ## Core
 
 * [PHP Language Specification](https://github.com/php/php-langspec)
-* [PSR / FIG Standards](https://github.com/php-fig/fig-standards)
+* [PHP Framework Interop Group](http://www.php-fig.org)
+
+## Frameworks
+
+* [Symfony](http://symfony.com/)
+* [Zend Framework](http://framework.zend.com/)
+* [CakePHP](http://cakephp.org/)
+* [Laravel](http://laravel.com/)
+* [Slim](http://www.slimframework.com/)
+* [Silex](http://silex.sensiolabs.org/)
+* [FuelPHP](http://fuelphp.com/)
+* [yiiframework](http://www.yiiframework.com/)
 
 ## Design Patterns
 
@@ -60,6 +71,12 @@ There are a lot of information out there. But what are the best ones? Many are n
 #### Documentation
 
 * [Read the Docs](https://readthedocs.org)
+* [PHP Manual](https://php.net/manual/en/index.php)
+
+#### Documentation generator
+
+* [apigen](http://apigen.org/)
+* [phpDocumentor](http://www.phpdoc.org/)
  
 #### Data generator
 
@@ -67,7 +84,16 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## Libraries
 
-* 
+#### ORMs
+
+* [Doctrine](http://www.doctrine-project.org/)
+* [Redbean](http://redbeanphp.com/)
+* [Propel](http://propelorm.org/)
+
+#### Templating engines
+
+* [Twig](http://twig.sensiolabs.org/)
+* [Smarty](http://www.smarty.net/)
 
 ## PHP CI
 
@@ -77,14 +103,53 @@ There are a lot of information out there. But what are the best ones? Many are n
 ## Static Code Analysis
 
 * [Scrutinizer](https://scrutinizer-ci.com)
+* [phploc](https://github.com/sebastianbergmann/phploc)
+* [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+* [PHP Depend](http://pdepend.org/)
+* [phpcpd](https://github.com/sebastianbergmann/phpcpd)
+* [PHP Mess Detector](http://phpmd.org/)
 
 ## PHP hosting
 
-* 
+## Certification
 
-## PHP IDE
+* [Zend Certification](http://www.zend.com/en/services/certification)
+* [Symfony Certification](http://sensiolabs.com/en/symfony/certification.html)
 
-* [PHPStorm](http://www.jetbrains.com/phpstorm/)
+## IDEs
+
+* [Vim](http://www.vim.org/)
+* [PhpStorm](http://www.jetbrains.com/phpstorm/)
+* [zendstudio](http://www.zend.com/en/products/studio)
+* [NetBeans IDE](https://netbeans.org/)
+
+## Conferences and user groups
+
+#### Conferences
+
+* [php\[world\]](http://world.phparch.com/)
+* [CakeFest](http://cakefest.org/)
+* [International PHP Conference](http://phpconference.com/)
+* [New Zealand PHP Conference](http://www.phpconference.co.nz/)
+* [China PHP Conference](http://www.phpconchina.com/)
+* [Northeast PHP Conference](http://www.northeastphp.org/)
+* [PHP Conference Argentina](http://www.phpconference.com.ar/)
+* [Dutch PHP Conference](http://www.phpconference.nl/)
+* [MidwestPHP](http://www.midwestphp.org/)
+* [Dutch PHP Conference](http://www.phpconference.nl/)
+* [php\[tek\]](http://tek.phparch.com/)
+* [PHP Cape Town](http://www.phpsouthafrica.com/)
+* [Madison PHP Conference](http://www.madisonphpconference.com/)
+* [PHP Benelux Conference](http://conference.phpbenelux.eu)
+* [ConFoo](http://confoo.ca/)
+* [SunshinePHP](http://sunshinephp.com/)
+* [ZendCon](http://www.zendcon.com/)
+
+#### User Groups
+
+* [php.ug](http://php.ug/)
+
+
 
 ---
 
