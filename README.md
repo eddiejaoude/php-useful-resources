@@ -31,11 +31,6 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## Other
 
-#### Documentation generator
-
-* [apigen](http://apigen.org/)
-* [phpDocumentor](http://www.phpdoc.org/)
- 
 #### Data generator
 
 * [Faker](https://github.com/fzaninotto/Faker)
