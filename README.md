@@ -33,6 +33,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [PHP CI](/ci.md)
 * [PHP Static Code Analysis](/static-code-analysis.md)
 * [Conferences](/conferences.md)
+* [Certification](/certification.md)
 
 
 ## Other
@@ -43,10 +44,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## PHP hosting
 
-## Certification
 
-* [Zend Certification](http://www.zend.com/en/services/certification)
-* [Symfony Certification](http://sensiolabs.com/en/symfony/certification.html)
 
 ## IDEs
 
