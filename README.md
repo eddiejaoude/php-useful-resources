@@ -37,11 +37,6 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 
 ## Libraries
-
-## PHP CI
-
-* [CI written & designed for PHP](https://www.phptesting.org)
-* [TravisCI](http://docs.travis-ci.com/user/languages/php/)
  
 ## Static Code Analysis
 
