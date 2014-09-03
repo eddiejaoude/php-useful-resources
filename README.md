@@ -30,6 +30,8 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Data Generator](/data-generator.md)
 * [ORMs](/orms.md)
 * [Templating](/templating.md)
+* [PHP CI](/ci.md)
+* [PHP Static Code Analysis](/static-code-analysis.md)
 
 
 ## Other
