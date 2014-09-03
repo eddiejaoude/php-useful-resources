@@ -18,16 +18,13 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Security](/security.md)
 * [Performance](/performance.md)
 * [Testing](/testing.md)
-
+* [Package Manager](/package-manager.md)
 
 
 
 ## Other
 
-#### Package manager
 
-* [Composer](https://getcomposer.org)
-* [Packagist](https://packagist.org)
  
 #### Documentation
 
