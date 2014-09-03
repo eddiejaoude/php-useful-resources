@@ -8,8 +8,15 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## Core
 
+#### Specification
+
 * [PHP Language Specification](https://github.com/php/php-langspec)
 * [PHP Framework Interop Group](http://www.php-fig.org)
+
+#### Documentation
+
+* [Read the Docs](https://readthedocs.org)
+* [PHP Manual](https://php.net/manual/en/index.php)
 
 ## Contents
 
@@ -23,13 +30,6 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 
 ## Other
-
-
- 
-#### Documentation
-
-* [Read the Docs](https://readthedocs.org)
-* [PHP Manual](https://php.net/manual/en/index.php)
 
 #### Documentation generator
 
