@@ -21,10 +21,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 ## Contents
 
 * [PHP MVC Frameworks](/frameworks.md)
-* [Design Patterns](/design-patterns.md)
+* [Design Patterns](/design-patterns.md) with PHP examples
 * [Security](/security.md)
 * [Performance](/performance.md)
-* [Testing](/testing.md)
+* [Testing](/testing.md) (Unit Testing, Integration Testing, Behavioural Testing, End-to-End Testing...)
 * [Package Manager](/package-manager.md)
 * [Documentation Generator](/documentation-generator.md)
 * [Data Generator](/data-generator.md)
@@ -35,6 +35,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Conferences](/conferences.md)
 * [Certification](/certification.md)
 * [PHP IDEs](/ides.md)
+* [PHP User Groups](/user-groups.md)
 
 
 ## Other
@@ -48,9 +49,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## Conferences and user groups
 
-#### User Groups
 
-* [php.ug](http://php.ug/)
 
 
 
