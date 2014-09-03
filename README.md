@@ -32,6 +32,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Templating](/templating.md)
 * [PHP CI](/ci.md)
 * [PHP Static Code Analysis](/static-code-analysis.md)
+* [Conferences](/conferences.md)
 
 
 ## Other
@@ -55,26 +56,6 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [NetBeans IDE](https://netbeans.org/)
 
 ## Conferences and user groups
-
-#### Conferences
-
-* [php\[world\]](http://world.phparch.com/)
-* [CakeFest](http://cakefest.org/)
-* [International PHP Conference](http://phpconference.com/)
-* [New Zealand PHP Conference](http://www.phpconference.co.nz/)
-* [China PHP Conference](http://www.phpconchina.com/)
-* [Northeast PHP Conference](http://www.northeastphp.org/)
-* [PHP Conference Argentina](http://www.phpconference.com.ar/)
-* [Dutch PHP Conference](http://www.phpconference.nl/)
-* [MidwestPHP](http://www.midwestphp.org/)
-* [Dutch PHP Conference](http://www.phpconference.nl/)
-* [php\[tek\]](http://tek.phparch.com/)
-* [PHP Cape Town](http://www.phpsouthafrica.com/)
-* [Madison PHP Conference](http://www.madisonphpconference.com/)
-* [PHP Benelux Conference](http://conference.phpbenelux.eu)
-* [ConFoo](http://confoo.ca/)
-* [SunshinePHP](http://sunshinephp.com/)
-* [ZendCon](http://www.zendcon.com/)
 
 #### User Groups
 
