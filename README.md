@@ -27,14 +27,12 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Testing](/testing.md)
 * [Package Manager](/package-manager.md)
 * [Documentation Generator](/documentation-generator.md)
-
+* [Data Generator](/data-generator.md)
 
 
 ## Other
 
-#### Data generator
 
-* [Faker](https://github.com/fzaninotto/Faker)
 
 ## Libraries
 
