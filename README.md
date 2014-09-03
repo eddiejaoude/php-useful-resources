@@ -27,6 +27,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Source Making](http://sourcemaking.com/design_patterns) with PHP examples
 * [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) Github Repo with examples
 
+## Best Practices
+
+* [Restful Cookbook](http://restcookbook.com/) general examples as to use what verb when
+
 ## Security
 
 #### Information
