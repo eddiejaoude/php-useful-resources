@@ -36,6 +36,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Certification](/certification.md)
 * [PHP IDEs](/ides.md)
 * [PHP User Groups](/user-groups.md)
+* [Environments](/enironments.md) Local Development / Remote Hosting
 
 ---
 
