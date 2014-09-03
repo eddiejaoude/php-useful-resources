@@ -14,12 +14,8 @@ There are a lot of information out there. But what are the best ones? Many are n
 ## Contents
 
 * [PHP MVC Frameworks](/frameworks.md)
+* [Design Patterns](/design-patterns.md)
 
-
-## Design Patterns
-
-* [Source Making](http://sourcemaking.com/design_patterns) with PHP examples
-* [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) Github Repo with examples
 
 ## Security
 
