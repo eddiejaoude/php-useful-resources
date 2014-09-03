@@ -28,6 +28,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Package Manager](/package-manager.md)
 * [Documentation Generator](/documentation-generator.md)
 * [Data Generator](/data-generator.md)
+* [ORMs](/orms.md)
 
 
 ## Other
@@ -35,12 +36,6 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 
 ## Libraries
-
-#### ORMs
-
-* [Doctrine](http://www.doctrine-project.org/)
-* [Redbean](http://redbeanphp.com/)
-* [Propel](http://propelorm.org/)
 
 #### Templating engines
 
