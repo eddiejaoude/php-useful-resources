@@ -17,20 +17,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Design Patterns](/design-patterns.md)
 * [Security](/security.md)
 * [Performance](/performance.md)
+* [Testing](/testing.md)
 
 
-## Testing
 
-#### Information
-
-*
-
-#### Tools
-
-* [PHPSpec - BDD testing framework](http://www.phpspec.net)
-* [PHPUnit - xUnit architecture for unit testing frameworks](https://phpunit.de)
-* [Full-stack testing PHP framework](https://github.com/Codeception/Codeception)
-* [Mockery - simple yet flexible PHP mock object framework](https://github.com/padraic/mockery)
 
 ## Other
 
