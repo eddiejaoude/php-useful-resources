@@ -26,6 +26,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Performance](/performance.md)
 * [Testing](/testing.md)
 * [Package Manager](/package-manager.md)
+* [Documentation Generator](/documentation-generator.md)
 
 
 
