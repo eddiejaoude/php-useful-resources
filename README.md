@@ -37,22 +37,6 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [PHP IDEs](/ides.md)
 * [PHP User Groups](/user-groups.md)
 
-
-## Other
-
-
-
-## Libraries
-
-## PHP hosting
-
-
-## Conferences and user groups
-
-
-
-
-
 ---
 
 ## Contributions
