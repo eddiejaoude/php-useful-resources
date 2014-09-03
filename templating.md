@@ -1,3 +1,3 @@
-#### Templating engines
+## Templating engines
 
 * [Twig](http://twig.sensiolabs.org/)
