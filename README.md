@@ -16,17 +16,8 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [PHP MVC Frameworks](/frameworks.md)
 * [Design Patterns](/design-patterns.md)
 * [Security](/security.md)
+* [Performance](/performance.md)
 
-## Performance
-
-#### Information
-
-*
-
-#### Tools
-
-* [Xhprof with UI](https://github.com/phacility/xhprof)
-* [Xdebug](http://xdebug.org)
 
 ## Testing
 
