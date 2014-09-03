@@ -11,16 +11,10 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [PHP Language Specification](https://github.com/php/php-langspec)
 * [PHP Framework Interop Group](http://www.php-fig.org)
 
-## Frameworks
+## Contents
 
-* [Symfony](http://symfony.com/)
-* [Zend Framework](http://framework.zend.com/)
-* [CakePHP](http://cakephp.org/)
-* [Laravel](http://laravel.com/)
-* [Slim](http://www.slimframework.com/)
-* [Silex](http://silex.sensiolabs.org/)
-* [FuelPHP](http://fuelphp.com/)
-* [yiiframework](http://www.yiiframework.com/)
+* [PHP MVC Frameworks](/frameworks.md)
+
 
 ## Design Patterns
 
