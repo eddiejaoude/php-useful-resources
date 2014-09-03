@@ -15,17 +15,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 * [PHP MVC Frameworks](/frameworks.md)
 * [Design Patterns](/design-patterns.md)
-
-
-## Security
-
-#### Information
-
-*
-
-#### Tools
-
-* [Zap Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+* [Security](/security.md)
 
 ## Performance
 
