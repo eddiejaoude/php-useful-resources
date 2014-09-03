@@ -29,6 +29,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Documentation Generator](/documentation-generator.md)
 * [Data Generator](/data-generator.md)
 * [ORMs](/orms.md)
+* [Templating](/templating.md)
 
 
 ## Other
@@ -36,10 +37,6 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 
 ## Libraries
-
-#### Templating engines
-
-* [Twig](http://twig.sensiolabs.org/)
 
 ## PHP CI
 
