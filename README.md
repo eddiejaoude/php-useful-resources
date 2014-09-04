@@ -17,6 +17,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 * [Read the Docs](https://readthedocs.org)
 * [PHP Manual](https://php.net/manual/en/index.php)
+* [PHP the right way](http://www.phptherightway.com)
 
 ## Contents
 
