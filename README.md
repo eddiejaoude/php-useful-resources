@@ -8,151 +8,36 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ## Core
 
+#### Specification
+
 * [PHP Language Specification](https://github.com/php/php-langspec)
 * [PHP Framework Interop Group](http://www.php-fig.org)
 
-## Frameworks
-
-* [Symfony](http://symfony.com/)
-* [Zend Framework](http://framework.zend.com/)
-* [CakePHP](http://cakephp.org/)
-* [Laravel](http://laravel.com/)
-* [Slim](http://www.slimframework.com/)
-* [Silex](http://silex.sensiolabs.org/)
-* [FuelPHP](http://fuelphp.com/)
-* [yiiframework](http://www.yiiframework.com/)
-
-## Design Patterns
-
-* [Source Making](http://sourcemaking.com/design_patterns) with PHP examples
-* [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) Github Repo with examples
-
-## Best Practices
-
-* [Restful Cookbook](http://restcookbook.com/) general examples as to use what verb when
-
-## Security
-
-#### Information
-
-*
-
-#### Tools
-
-* [Zap Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
-
-## Performance
-
-#### Information
-
-*
-
-#### Tools
-
-* [Xhprof with UI](https://github.com/phacility/xhprof)
-* [Xdebug](http://xdebug.org)
-
-## Testing
-
-#### Information
-
-*
-
-#### Tools
-
-* [PHPSpec - BDD testing framework](http://www.phpspec.net)
-* [PHPUnit - xUnit architecture for unit testing frameworks](https://phpunit.de)
-* [Full-stack testing PHP framework](https://github.com/Codeception/Codeception)
-* [Mockery - simple yet flexible PHP mock object framework](https://github.com/padraic/mockery)
-
-## Other
-
-#### Package manager
-
-* [Composer](https://getcomposer.org)
-* [Packagist](https://packagist.org)
- 
 #### Documentation
 
 * [Read the Docs](https://readthedocs.org)
 * [PHP Manual](https://php.net/manual/en/index.php)
 
-#### Documentation generator
+## Contents
 
-* [apigen](http://apigen.org/)
-* [phpDocumentor](http://www.phpdoc.org/)
- 
-#### Data generator
-
-* [Faker](https://github.com/fzaninotto/Faker)
-
-## Libraries
-
-#### ORMs
-
-* [Doctrine](http://www.doctrine-project.org/)
-* [Redbean](http://redbeanphp.com/)
-* [Propel](http://propelorm.org/)
-
-#### Templating engines
-
-* [Twig](http://twig.sensiolabs.org/)
-
-## PHP CI
-
-* [CI written & designed for PHP](https://www.phptesting.org)
-* [TravisCI](http://docs.travis-ci.com/user/languages/php/)
- 
-## Static Code Analysis
-
-* [Scrutinizer](https://scrutinizer-ci.com)
-* [phploc](https://github.com/sebastianbergmann/phploc)
-* [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
-* [PHP Depend](http://pdepend.org/)
-* [phpcpd](https://github.com/sebastianbergmann/phpcpd)
-* [PHP Mess Detector](http://phpmd.org/)
-
-## PHP hosting
-
-## Certification
-
-* [Zend Certification](http://www.zend.com/en/services/certification)
-* [Symfony Certification](http://sensiolabs.com/en/symfony/certification.html)
-
-## IDEs
-
-* [Vim](http://www.vim.org/)
-* [PhpStorm](http://www.jetbrains.com/phpstorm/)
-* [zendstudio](http://www.zend.com/en/products/studio)
-* [NetBeans IDE](https://netbeans.org/)
-
-## Conferences and user groups
-
-#### Conferences
-
-* [php\[world\]](http://world.phparch.com/)
-* [CakeFest](http://cakefest.org/)
-* [International PHP Conference](http://phpconference.com/)
-* [New Zealand PHP Conference](http://www.phpconference.co.nz/)
-* [China PHP Conference](http://www.phpconchina.com/)
-* [Northeast PHP Conference](http://www.northeastphp.org/)
-* [PHP Conference Argentina](http://www.phpconference.com.ar/)
-* [Dutch PHP Conference](http://www.phpconference.nl/)
-* [MidwestPHP](http://www.midwestphp.org/)
-* [Dutch PHP Conference](http://www.phpconference.nl/)
-* [php\[tek\]](http://tek.phparch.com/)
-* [PHP Cape Town](http://www.phpsouthafrica.com/)
-* [Madison PHP Conference](http://www.madisonphpconference.com/)
-* [PHP Benelux Conference](http://conference.phpbenelux.eu)
-* [ConFoo](http://confoo.ca/)
-* [SunshinePHP](http://sunshinephp.com/)
-* [ZendCon](http://www.zendcon.com/)
-
-#### User Groups
-
-* [php.ug](http://php.ug/)
-
-
+* [PHP MVC Frameworks](/frameworks.md)
+* [Design Patterns](/design-patterns.md) with PHP examples
+* [Restful Web Services](/restful-services.md)
+* [Security](/security.md)
+* [Performance](/performance.md)
+* [Testing](/testing.md) (Unit Testing, Integration Testing, Behavioural Testing, End-to-End Testing...)
+* [Package Manager](/package-manager.md)
+* [Documentation Generator](/documentation-generator.md)
+* [Data Generator](/data-generator.md)
+* [ORMs](/orms.md)
+* [Templating](/templating.md)
+* [PHP CI](/ci.md)
+* [PHP Static Code Analysis](/static-code-analysis.md)
+* [Conferences](/conferences.md)
+* [Certification](/certification.md)
+* [PHP IDEs](/ides.md)
+* [PHP User Groups](/user-groups.md)
+* [Environments](/enironments.md) Local Development / Remote Hosting
 
 ---
 
