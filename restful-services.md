@@ -3,9 +3,9 @@
 * [Restful Cookbook](http://restcookbook.com/) general examples as to use what verb when
 * [HTTP/1.1 Status Code Definitions](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 
-#### Libraries 
+#### Server Libraries 
 
-* [slim-jsonAPI](https://github.com/entomb/slim-json-api)
+* [Slim jsonAPI](https://github.com/entomb/slim-json-api)
 
 #### Client Libraries
 
