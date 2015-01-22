@@ -24,6 +24,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [PHP MVC Frameworks](/frameworks.md)
 * [Design Patterns](/design-patterns.md) with PHP examples
 * [Restful Web Services](/restful-services.md)
+* [Web Scraping](/web-scraping.md)
 * [Security](/security.md)
 * [Performance](/performance.md)
 * [Testing](/testing.md) (Unit Testing, Integration Testing, Behavioural Testing, End-to-End Testing...)
