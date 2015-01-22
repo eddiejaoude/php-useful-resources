@@ -1,5 +1,6 @@
 ## Conferences
 
+* [PHP South Coast](http://phpsouthcoast.co.uk)
 * [php\[world\]](http://world.phparch.com/)
 * [CakeFest](http://cakefest.org/)
 * [International PHP Conference](http://phpconference.com/)
