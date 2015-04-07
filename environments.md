@@ -2,6 +2,8 @@
 
 #### Hosting
 
+* (Digital Ocean)[https://www.digitalocean.com]
+* (Heroku)[https://heroku.com]
 
 #### Local Development
 
