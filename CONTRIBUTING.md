@@ -1,3 +1,3 @@
 # Contribution
 
-Please refer to the recommended **Resource Template**
+Please refer to the recommended [Resource Template](_template.md)
