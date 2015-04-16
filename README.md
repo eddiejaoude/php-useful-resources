@@ -1,3 +1,6 @@
+[![DashboardHub Badge](http://dashboardhub.io/badge/552f7dcdcaeb17.39567168 "DashboardHub Badge")](http://dashboardhub.io/d/552f7dcdcaeb17.39567168)
+[![DashboardHub Badge](http://dashboardhub.io/badge/views/552f7dcdcaeb17.39567168 "DashboardHub Badge")](http://dashboardhub.io/d/552f7dcdcaeb17.39567168)
+
 # PHP Useful Resources
 
 PHP useful resources - Designed to be Objective...from Blogs, Framework agnostic libraries/tools etc..
