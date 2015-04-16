@@ -9,8 +9,9 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 ---
 
-## Online launch Checklist
+##Checklist
 
+* [Checklist before project start](project-start-checklist.md)
 * [Checklist before launch](online-checklist.md)
 
 ## Core
