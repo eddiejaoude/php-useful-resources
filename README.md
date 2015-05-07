@@ -39,6 +39,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [Restful Web Services](/restful-services.md)
 * [Web Scraping](/web-scraping.md)
 * [Security](/security.md)
+* [Email](/email.md)
 * [Performance](/performance.md)
 * [Testing](/testing.md) (Unit Testing, Integration Testing, Behavioural Testing, End-to-End Testing...)
 * [Package Manager](/package-manager.md)
