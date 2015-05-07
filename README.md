@@ -62,7 +62,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 Contributions are welcome. Please **Fork**, **Make Changes** & create a **Pull Request**
 
-Use the following [tempate](_template.md) *(improvements welcome)*
+Use the following [template](_template.md) *(improvements welcome)*
 
 Examples below from **Github** Help section:
 
