@@ -10,5 +10,6 @@
 #### Client Libraries
 
 * [Guzzle](http://guzzle.readthedocs.org/en/latest/)
+* [Buzz](https://github.com/kriswallsmith/Buzz)
 
 
