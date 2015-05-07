@@ -6,5 +6,8 @@
 * [Laravel](http://laravel.com/)
 * [Slim](http://www.slimframework.com/)
 * [Silex](http://silex.sensiolabs.org/)
+* [Nice](http://niceframework.com/)
+* [Aura](http://auraphp.com/)
+* [Bullet](http://bulletphp.com)
 * [FuelPHP](http://fuelphp.com/)
 * [yiiframework](http://www.yiiframework.com/)
