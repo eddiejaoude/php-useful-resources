@@ -35,6 +35,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 ## Contents
 
 * [PHP MVC Frameworks](/frameworks.md)
+* [Middleware](/middleware.md)
 * [Design Patterns](/design-patterns.md) with PHP examples
 * [Restful Web Services](/restful-services.md)
 * [Web Scraping](/web-scraping.md)
