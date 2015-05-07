@@ -47,6 +47,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 * [ORMs](/orms.md)
 * [Templating](/templating.md)
 * [PHP CI](/ci.md)
+* [Dependency Injection](/di.md)
 * [PHP Static Code Analysis](/static-code-analysis.md)
 * [Conferences](/conferences.md)
 * [Certification](/certification.md)
