@@ -1,5 +1,5 @@
-[![DashboardHub Badge](http://dashboardhub.io/badge/552f7dcdcaeb17.39567168 "DashboardHub Badge")](http://dashboardhub.io/d/552f7dcdcaeb17.39567168)
-[![DashboardHub Badge](http://dashboardhub.io/badge/views/552f7dcdcaeb17.39567168 "DashboardHub Badge")](http://dashboardhub.io/d/552f7dcdcaeb17.39567168)
+[![DashboardHub Badge](http://badge.dashboardhub.io/badge/552f7dcdcaeb17.39567168 "DashboardHub Badge")](http://pipeline.dashboardhub.io/d/552f7dcdcaeb17.39567168)
+[![DashboardHub Badge](http://badge.dashboardhub.io/badge/views/552f7dcdcaeb17.39567168 "DashboardHub Badge")](http://pipeline.dashboardhub.io/d/552f7dcdcaeb17.39567168)
 
 # PHP Useful Resources
 
