@@ -31,6 +31,7 @@ There are a lot of information out there. But what are the best ones? Many are n
 
 * [Articles](articles.md)
 * [PHP watch by phptodayorg](https://github.com/phptodayorg/php-must-watch)
+* [Podcasts](/podcasts.md)
 
 ## Contents
 
