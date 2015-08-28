@@ -14,8 +14,8 @@
 
 ### Three Devs and a Maybe
 
-Website http://threedevsandamaybe.com
-RSS http://threedevsandamaybe.com/podcast.xml
+* Website http://threedevsandamaybe.com
+* RSS http://threedevsandamaybe.com/podcast.xml
 
 ### Voices of the Elephpant
 
