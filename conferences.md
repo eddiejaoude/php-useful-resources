@@ -18,3 +18,4 @@
 * [ConFoo](http://confoo.ca/)
 * [SunshinePHP](http://sunshinephp.com/)
 * [ZendCon](http://www.zendcon.com/)
+* [PHP UK Conference](http://phpconference.co.uk/)
