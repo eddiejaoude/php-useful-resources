@@ -7,4 +7,6 @@
 
 #### Local Development
 
-* [PuPHPet](https://puphpet.com) PHP Puppet - VirtualBox, VMWare, Parrallels 
+* [PuPHPet](https://puphpet.com) PHP Puppet - VirtualBox, VMWare, Parrallel
+* [WAMP](http://www.wampserver.com/en/)
+* [MAMP](https://www.mamp.info/en/)
